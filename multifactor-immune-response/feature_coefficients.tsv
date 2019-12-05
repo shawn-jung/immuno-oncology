@@ -1,0 +1,37 @@
+#Feature name	Score	Class
+expressed_neoantigen_count	0.6938883334550935	Tumor
+log_neoantigen_count	-0.6273532177502754	Tumor
+Top Clone Freq(%)	0.5314702471602925	Blood
+Time since last chemotherapy	-0.529836010289871	Clinical
+Age	-0.5209863672600352	Clinical
+log_Productive Unique TCRs (cnt)	0.40831376598979413	Blood
+Albumin < 4	-0.34353295051032373	Clinical
+T-cell fraction	-0.34169800521192195	Blood
+T-cell fraction_tumor	0.29304915877740856	Tumor
+log_factor score	0.2177360737286833	Clinical
+log_Number of chemo regimens total	-0.2045685981641585	Clinical
+log_Diversity_tumor	-0.20205090441692744	Tumor
+Prior BCG	0.1301680931144307	Clinical
+Diversity_tumor	-0.10010165347316832	Tumor
+neoantigen_count	-0.09094504604843258	Tumor
+missense_snv_count	-0.08756379372099442	Tumor
+log_Top Clone Freq(%)	0.08062149363300543	Blood
+factor score	0.064819323642436	Clinical
+Clonality_tumor	0.003578954675205981	Tumor
+log_Baseline neutrophil to lymphocyte ratio	0.0032118628518125604	Clinical
+Baseline neutrophil to lymphocyte ratio	-0.0	Clinical
+log_Clonality_tumor	0.0	Tumor
+log_Clonality	0.0	Blood
+log_expressed_missense_snv_count	0.0	Tumor
+log_missense_snv_count	-0.0	Tumor
+expressed_missense_snv_count	-0.0	Tumor
+log_Time since last chemotherapy	0.0	Clinical
+log_Age	-0.0	Clinical
+Clonality	0.0	Blood
+Number of chemo regimens total	0.0	Clinical
+Diversity	-0.0	Blood
+Productive Unique TCRs (cnt)	-0.0	Blood
+log_T-cell fraction_tumor	0.0	Tumor
+log_expressed_neoantigen_count	-0.0	Tumor
+log_Diversity	-0.0	Blood
+log_T-cell fraction	-0.0	Blood

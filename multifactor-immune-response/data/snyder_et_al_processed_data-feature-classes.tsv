@@ -1,0 +1,37 @@
+#Feature name	Class
+Age	Clinical
+Albumin < 4	Clinical
+Time since last chemotherapy	Clinical
+missense_snv_count	Tumor
+expressed_missense_snv_count	Tumor
+neoantigen_count	Tumor
+expressed_neoantigen_count	Tumor
+T-cell fraction	Blood
+Clonality	Blood
+Diversity	Blood
+Productive Unique TCRs (cnt)	Blood
+T-cell fraction_tumor	Tumor
+Clonality_tumor	Tumor
+Diversity_tumor	Tumor
+Top Clone Freq(%)	Blood
+Number of chemo regimens total	Clinical
+Baseline neutrophil to lymphocyte ratio	Clinical
+Prior BCG	Clinical
+factor score	Clinical
+log_Age	Clinical
+log_Time since last chemotherapy	Clinical
+log_missense_snv_count	Tumor
+log_expressed_missense_snv_count	Tumor
+log_neoantigen_count	Tumor
+log_expressed_neoantigen_count	Tumor
+log_T-cell fraction	Blood
+log_Clonality	Blood
+log_Diversity	Blood
+log_Productive Unique TCRs (cnt)	Blood
+log_T-cell fraction_tumor	Tumor
+log_Clonality_tumor	Tumor
+log_Diversity_tumor	Tumor
+log_Top Clone Freq(%)	Blood
+log_Number of chemo regimens total	Clinical
+log_Baseline neutrophil to lymphocyte ratio	Clinical
+log_factor score	Clinical
